@@ -9,7 +9,7 @@ name: Traditional Storytelling and Independent Grass Roots Music Intelligence
 author: Tony Hirst
 
 # Short bio or description (displayed in the header)
-description: Insights and intelligence from New Troubadors
+description: Insights and intelligence from New Troubadours
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/favicon.png
@@ -55,7 +55,7 @@ enforce_ssl:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "https://intelligence.newtroubadours.org/"
+baseurl: "https://intelligence.newtroubadours.org"
 
 #
 # !! You don't need to change any of the configuration flags below !!
