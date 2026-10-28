@@ -2,7 +2,7 @@
 layout: post
 title:  Beginnings
 categories: [Generic]
-excerpt: In graphic design, a pull quote (also known as a lift-out pull quote) is a key phrase, quotation, or excerpt that has been pulled from an article and used as a page layout graphic element, serving to entice readers into the article or to highlight a key topic.
+excerpt: So what's this blog about?
 ---
 
 The *New Troubadours* directory started life at the end of November, 2025, inspired by [a list of storytelling club dates](https://www.facebook.com/groups/societyforstorytelling/posts/10172947366465461/) posted by Peter Giles to the Society for Storytelling Facebook group on Saturday, November 29th, 2025. Since then, site maintainer Tony Hirst, aka *Monty Storyteller*, has been adding data and rabbit holes to the site, eventually giving it its own web domain — [`newtroubadours.org`](https:/newtroubadours.org) — in September 2026.
